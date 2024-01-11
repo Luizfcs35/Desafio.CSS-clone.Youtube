@@ -43,3 +43,6 @@ Concluir o desenvolvimento da página foi um desafio enriquecedor, destacando a 
 [Link clone youtube 😄](https://luizfcs35.github.io/Desafio.CSS-clone.Youtube/)
 
 
+![Página Finalizada](imagens/Capturar.PNG)
+
+
